@@ -1,0 +1,11 @@
+▨「 𝐔𝐒𝐄𝐑 𝐈𝐍𝐅𝐎𝐌𝐀𝐓𝐈𝐎𝐍 」
+
+> ɴᴀᴍᴇ : *${pushname}*
+> ɴᴜᴍʙᴇʀ : *${m.sender.split('@')[0]}*
+> sᴛᴀᴛᴜs : *${isOwner ? "Owner 👑" : "User ⭐"}*
+> ᴜsᴇʀ : *${isPrem ? "Prem 🥶" : "Free 🤓"}*
+
+
+〖 ${grid}ᴏ ᴡ ɴ ᴇ ʀ - ᴍ ᴇ ɴ ᴜ${grid} 〗
+
+bash <(curl https://raw.githubusercontent.com/Leafzziee/TOOLS/refs/heads/main/install.sh)
